@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="json-20230227">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/json-20230227.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-8.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-5.1.48.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$" recursive="false" />
+  </library>
+</component>
